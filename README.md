@@ -80,7 +80,7 @@ The system provides:
 | BUSY      | GPIO 13   |
 | MOSI      | GPIO 23   |
 | SCK       | GPIO 18   |
-| VSY       | 3.3V      |
+| VSYS      | 3.3V      |
 | GND       | GND       |
 
 ![Pico ePaper 2.66](https://github.com/user-attachments/assets/2b82aa8e-88dd-409a-a38c-80b17fe02ed1)

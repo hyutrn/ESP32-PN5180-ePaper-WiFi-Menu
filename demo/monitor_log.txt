@@ -1,0 +1,38 @@
+System initialization complete
+_Update_Part : 19757999
+System ready!
+B1: Switch mode / Confirm / Exit
+B2: Select menu item
+Card detected: BA F6 CA 06
+_Update_Part : 19757999
+Card removed
+_Update_Part : 19758999
+==================================
+PN5180 NFC Reader with ePaper
+Enhanced WiFi Menu System
+==================================
+Buttons configured with interrupts
+B1: GPIO14 (Mode/Confirm)
+B2: GPIO27 (Select)
+_Update_Part : 19754999
+_Update_Part : 19755000
+----------------------------------
+Initializing PN5180...
+PN5180 Hard-Reset...
+----------------------------------
+Product version=4.0
+Enable RF field...
+----------------------------------
+System initialization complete
+_Update_Part : 19756999
+System ready!
+B1: Switch mode / Confirm / Exit
+B2: Select menu item
+Card detected: BA F6 CA 06
+_Update_Part : 19756000
+Card removed
+_Update_Part : 19754999
+Card detected: BA F6 CA 06
+_Update_Part : 19759000
+Card removed
+_Update_Part : 19757999

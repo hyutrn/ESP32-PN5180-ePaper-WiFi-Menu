@@ -17,21 +17,21 @@ The system provides:
 - **ESP32 DevKit**
 - **PN5180 NFC Reader**
   - ISO14443A
-  - Reads **4 / 7 / 10-byte UID**
+  - Reads 4 / 7 / 10-byte UID
 - **2.66” Pico ePaper Display**
-  - Resolution: **296 × 152**
-  - Colors: **Black / White / Red**
+  - Resolution: 296 × 152
+  - Colors: Black / White / Red
   - Partial refresh supported
 
 ---
 
 ## 📁 File Structure
-ESP32-PN5180-ePaper/
-├── src/
-│ └── PN5180_reader.ino # Main application
-├── inc/
-│ └── PN5180/ # PN5180 library
-└── README.md # Documentation
+- ESP32-PN5180-ePaper/
+- ├── src/
+- │ └──nfc_display.ino # Main application
+- ├── inc/
+- │ └── PN5180/ # PN5180 library
+- └── README.md # Documentation
 
 
 ---

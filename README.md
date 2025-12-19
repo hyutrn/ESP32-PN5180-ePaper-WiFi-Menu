@@ -4,14 +4,14 @@
 An embedded UI project using ESP32, PN5180 NFC reader, and a 2.66-inch 3-color ePaper display (Black / White / Red).
 The system provides a menu-driven interface, NFC card UID display, and WiFi configuration demo, optimized for low power and minimal screen flicker.
 ## ✨ Features
-ESP32 Devkit
-PN5180 NFC Reader
-- ISO14443A
-- Reads 4 / 7 / 10-byte UID
-2.66” Pico ePaper Display
-- Resolution: 296 × 152
-- Colors: Black / White / Red
-- Partial refresh supported
+- ESP32 Devkit
+- PN5180 NFC Reader
+-- ISO14443A
+-- Reads 4 / 7 / 10-byte UID
+-2.66” Pico ePaper Display
+-- Resolution: 296 × 152
+-- Colors: Black / White / Red
+-- Partial refresh supported
 ### File Structure
 - PN5180-NFC-Reader/
 - ├── src/
@@ -35,7 +35,7 @@ PN5180 Pin	|   ESP32 Pin
 -     VCC     |    3.3V
 -     GND     |    GND
 - **Note**: Never swap NSS pin (16) and Busy pin (5)
-- <img width="3487" height="2092" alt="esp32-pn5180" src="https://github.com/user-attachments/assets/7ba69ed8-1a05-4073-891c-9e414e22d4fa" />
+<img width="3487" height="2092" alt="esp32-pn5180" src="https://github.com/user-attachments/assets/7ba69ed8-1a05-4073-891c-9e414e22d4fa" />
 ePaper     |  ESP32 Pin
 - CS       |  15
 - DC       |  2

@@ -1,0 +1,15 @@
+idf_component_register(
+    SRCS
+        "pn5180.c"
+        "pn5180_spi.c"
+        "pn5180_types.c"
+        "pn5180_iso14443a.c"
+        "pn5180_iso14443b.c"
+        "pn5180_iso15693.c"
+        "pn5180_nfcip1.c"
+    INCLUDE_DIRS
+        "include"
+    REQUIRES
+        driver
+        freertos
+)

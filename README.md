@@ -89,30 +89,7 @@ The system provides:
 
 ## 💻 Software Installation
 
-### 1️⃣ Arduino IDE
-- Install **Arduino IDE 1.8.x or later**
-- Install **ESP32 Board Support**
 
----
-
-### 2️⃣ PN5180 Library
-- Download PN5180 library by **tueddy**  
-  🔗 https://github.com/tueddy/PN5180-Library
-- Add library via: Sketch → Include Library → Add .ZIP Library
-
----
-
-### 3️⃣ ePaper Library
-- Install **GxEPD2** via **Arduino Library Manager**
-
----
-
-### 4️⃣ Build & Upload
-1. Open `nfc_display.ino`
-2. Select:
- - Board: **ESP32 Dev Module**
- - Correct **COM Port**
-3. Click **Upload**
 
 ## Demo
 ![6791399d5a75d52b8c64](https://github.com/user-attachments/assets/10b95a58-8ade-43a8-9803-0473d361a367)
